@@ -1,0 +1,14 @@
+{
+    "id": 1480974941,
+    "name": "Meest bot",
+    "type": "Private dialog",
+    "users": [
+        {
+            "user_id": 1480974941,
+            "first_name": "Meest bot",
+            "last_name": null,
+            "username": "meestposhtomat_bot",
+            "phone": null
+        }
+    ]
+}

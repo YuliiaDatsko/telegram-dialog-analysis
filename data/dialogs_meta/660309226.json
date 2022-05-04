@@ -1,0 +1,14 @@
+{
+    "id": 660309226,
+    "name": "Анонимный чат Телеграма",
+    "type": "Private dialog",
+    "users": [
+        {
+            "user_id": 660309226,
+            "first_name": "Анонимный чат Телеграма",
+            "last_name": null,
+            "username": "AnonRuBot",
+            "phone": null
+        }
+    ]
+}
