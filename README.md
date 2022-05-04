@@ -21,6 +21,4 @@ To get analysis insights of your data just run run juputer notebook "research.ip
 
 ![image](https://user-images.githubusercontent.com/93656863/166719713-60475802-5bd4-4326-8004-962a77b09f13.png)
 
-![image](https://user-images.githubusercontent.com/93656863/166719809-a377f6a9-b114-4c94-8cf0-8d889fb81159.png)
-
 ![image](https://user-images.githubusercontent.com/93656863/166719832-70d3522c-acc9-44ff-a1f1-930aad6ef1e8.png)
