@@ -8,9 +8,9 @@ The purpose of this project is to make some assumptions, discover messaging patt
     - `$ pip install git+https://github.com/Desklop/Uk_Stemmer@master#egg=uk_stemmer`
 
 ## Prepare data
-1. Install a tool, see in "How to run" https://github.com/SanGreel/telegram-data-collection
+1. Install a tool, see "How to run" in [repo](https://github.com/SanGreel/telegram-data-collection)
 2. After data is downloaded, make a copy of telegram-data-collection/data to telegram-dialogs-analysis/data
-3. Run all cells in https://github.com/SanGreel/telegram-dialogs-analysis-v2/blob/main/0_merge_data.ipynb
+3. Run all cells in [notebook](https://github.com/SanGreel/telegram-dialogs-analysis-v2/blob/main/0_merge_data.ipynb)
 
 ## How to use:
 Download and place all files from current repo to telegram-dialogs-analysis folder.
