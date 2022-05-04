@@ -17,9 +17,8 @@ Download and place all files from current repo to telegram-dialogs-analysis fold
 To get analysis insights of your data just run run juputer notebook "research.ipynb"
 
 ## Analysis examples:
-![image](https://user-images.githubusercontent.com/93656863/166717180-98dc5d8b-5394-4316-b543-001238d5358f.png)
+![image](https://user-images.githubusercontent.com/93656863/166719713-60475802-5bd4-4326-8004-962a77b09f13.png)
 
-![image](https://user-images.githubusercontent.com/93656863/166719189-c45101f2-36f6-4090-b945-c7a9e95d2a60.png)
+![image](https://user-images.githubusercontent.com/93656863/166719809-a377f6a9-b114-4c94-8cf0-8d889fb81159.png)
 
-![image](https://user-images.githubusercontent.com/93656863/166717331-38000ba7-3e49-4f83-a1de-4a121c8009d5.png)
-
+![image](https://user-images.githubusercontent.com/93656863/166719832-70d3522c-acc9-44ff-a1f1-930aad6ef1e8.png)
