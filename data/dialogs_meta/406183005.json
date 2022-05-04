@@ -1,0 +1,14 @@
+{
+    "id": 406183005,
+    "name": "Image To Text [OCR]",
+    "type": "Private dialog",
+    "users": [
+        {
+            "user_id": 406183005,
+            "first_name": "Image To Text [OCR]",
+            "last_name": null,
+            "username": "imageToText_bot",
+            "phone": null
+        }
+    ]
+}

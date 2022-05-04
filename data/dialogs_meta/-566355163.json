@@ -1,0 +1,70 @@
+{
+    "id": -566355163,
+    "name": "процедурне програмування(3)",
+    "type": "Group",
+    "users": [
+        {
+            "user_id": 419413633,
+            "first_name": "Никита",
+            "last_name": null,
+            "username": "nikitkasavenko",
+            "phone": null
+        },
+        {
+            "user_id": 1419351245,
+            "first_name": "iva",
+            "last_name": "n",
+            "username": "Niva228",
+            "phone": null
+        },
+        {
+            "user_id": 544639169,
+            "first_name": "natasha",
+            "last_name": null,
+            "username": "nnattashaaaa",
+            "phone": null
+        },
+        {
+            "user_id": 372551595,
+            "first_name": "Влад",
+            "last_name": "Шпигун",
+            "username": "Vladon32",
+            "phone": null
+        },
+        {
+            "user_id": 559072245,
+            "first_name": "Катя",
+            "last_name": null,
+            "username": "luch_ka",
+            "phone": null
+        },
+        {
+            "user_id": 974447018,
+            "first_name": "Yuliia",
+            "last_name": "Datsko",
+            "username": "datulka",
+            "phone": "380633033384"
+        },
+        {
+            "user_id": 342667961,
+            "first_name": "Yullya",
+            "last_name": "Verbik",
+            "username": "VerbikYullya",
+            "phone": null
+        },
+        {
+            "user_id": 544701196,
+            "first_name": "Ярослав",
+            "last_name": "Шелемей",
+            "username": "kushyndra",
+            "phone": null
+        },
+        {
+            "user_id": 459802765,
+            "first_name": "Yaryna",
+            "last_name": "Kuzyomko",
+            "username": "yasyakuzya",
+            "phone": "380985394199"
+        }
+    ]
+}

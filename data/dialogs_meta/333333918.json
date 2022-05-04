@@ -1,0 +1,14 @@
+{
+    "id": 333333918,
+    "name": "Oleksandra Radzievska",
+    "type": "Private dialog",
+    "users": [
+        {
+            "user_id": 333333918,
+            "first_name": "Oleksandra",
+            "last_name": "Radzievska",
+            "username": "ORadzievska",
+            "phone": null
+        }
+    ]
+}

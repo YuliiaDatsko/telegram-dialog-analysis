@@ -1,0 +1,70 @@
+{
+    "id": -353400046,
+    "name": "Прога 1",
+    "type": "Group",
+    "users": [
+        {
+            "user_id": 319498185,
+            "first_name": "anhelina",
+            "last_name": null,
+            "username": "br00klynbaby",
+            "phone": null
+        },
+        {
+            "user_id": 974447018,
+            "first_name": "Yuliia",
+            "last_name": "Datsko",
+            "username": "datulka",
+            "phone": "380633033384"
+        },
+        {
+            "user_id": 564960030,
+            "first_name": "Анастасия",
+            "last_name": "Кржешевская",
+            "username": "kryzhikk",
+            "phone": null
+        },
+        {
+            "user_id": 582846760,
+            "first_name": "Vika",
+            "last_name": null,
+            "username": "thisisvika2",
+            "phone": null
+        },
+        {
+            "user_id": 687038668,
+            "first_name": "Aleksandr",
+            "last_name": "Averkin",
+            "username": "averkin_aleksandrr",
+            "phone": null
+        },
+        {
+            "user_id": 342667961,
+            "first_name": "Yullya",
+            "last_name": "Verbik",
+            "username": "VerbikYullya",
+            "phone": null
+        },
+        {
+            "user_id": 459802765,
+            "first_name": "Yaryna",
+            "last_name": "Kuzyomko",
+            "username": "yasyakuzya",
+            "phone": "380985394199"
+        },
+        {
+            "user_id": 395158213,
+            "first_name": "∆аша",
+            "last_name": null,
+            "username": "dosshhhik",
+            "phone": null
+        },
+        {
+            "user_id": 470773767,
+            "first_name": "Kate",
+            "last_name": "Korol",
+            "username": "cutebutpsychooo",
+            "phone": "380975438013"
+        }
+    ]
+}
