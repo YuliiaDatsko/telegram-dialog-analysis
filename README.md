@@ -4,8 +4,8 @@ The purpose of this project is to make some assumptions, discover messaging patt
 ## Install dependencies:
 1. Install Python 3.9.12
 2. Install dependencies:
-    - # $ pip install -r requirements.txt
-    - # $ pip install git+https://github.com/Desklop/Uk_Stemmer@master#egg=uk_stemmer
+    - `$ pip install -r requirements.txt`
+    - `$ pip install git+https://github.com/Desklop/Uk_Stemmer@master#egg=uk_stemmer`
 
 ## Prepare data
 1. Install a tool, see in "How to run" https://github.com/SanGreel/telegram-data-collection
@@ -19,8 +19,7 @@ To get analysis insights of your data just run run juputer notebook "research.ip
 ## Analysis examples:
 ![image](https://user-images.githubusercontent.com/93656863/166717180-98dc5d8b-5394-4316-b543-001238d5358f.png)
 
-![image](https://user-images.githubusercontent.com/93656863/166717380-4892f09d-9883-4846-9a79-2f870595fe30.png)
+![image](https://user-images.githubusercontent.com/93656863/166719189-c45101f2-36f6-4090-b945-c7a9e95d2a60.png)
 
 ![image](https://user-images.githubusercontent.com/93656863/166717331-38000ba7-3e49-4f83-a1de-4a121c8009d5.png)
 
-![image](https://user-images.githubusercontent.com/93656863/166717619-cb8b6378-1194-451d-befb-1ba55b395aac.png)
