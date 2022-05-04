@@ -4,8 +4,8 @@ The purpose of this project is to make some assumptions, discover messaging patt
 ## Install dependencies:
 1. Install Python 3.9.12
 2. Install dependencies:
-    - $ pip install -r requirements.txt
-    - $ pip install git+https://github.com/Desklop/Uk_Stemmer@master#egg=uk_stemmer
+    i. $ pip install -r requirements.txt
+    ii. $ pip install git+https://github.com/Desklop/Uk_Stemmer@master#egg=uk_stemmer
 
 ## Prepare data
 1. Install a tool, see in "How to run" https://github.com/SanGreel/telegram-data-collection
@@ -17,9 +17,10 @@ Download and place all files from current repo to telegram-dialogs-analysis fold
 To get analysis insights of your data just run run juputer notebook "research.ipynb"
 
 ## Analysis examples:
-![image](https://user-images.githubusercontent.com/93656863/166710660-181eef66-6e54-4c8a-8ed5-b0dffa1362e1.png)
+![image](https://user-images.githubusercontent.com/93656863/166717180-98dc5d8b-5394-4316-b543-001238d5358f.png)
 
-![image](https://user-images.githubusercontent.com/93656863/166710794-750f7a99-7622-4045-8b46-27fdc39be5fe.png)
+![image](https://user-images.githubusercontent.com/93656863/166717221-789c0d7d-d26f-4265-bf9d-530982e17e74.png)
 
-![image](https://user-images.githubusercontent.com/93656863/166710897-d9ef10aa-225f-4450-90d2-0fbff08be7c3.png)
+![image](https://user-images.githubusercontent.com/93656863/166717380-4892f09d-9883-4846-9a79-2f870595fe30.png)
 
+![image](https://user-images.githubusercontent.com/93656863/166717331-38000ba7-3e49-4f83-a1de-4a121c8009d5.png)
