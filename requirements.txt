@@ -9,7 +9,7 @@ squarify==0.4.3
 folium==0.12.1.post1
 emoji==1.7.0
 json5==0.9.6
-nltk==3.6.5
+nltk>=3.6.5
 regex==2021.8.3
 langdetect==1.0.9
 heatmapz==0.0.4
