@@ -1,6 +1,6 @@
 # Telegram dialogs analysis
 Data is a valuable source of information, that is why this project's purpose is to help you discover some of your messaging patterns. This scope is wide enough to implement the automation of these assumptions and vizualize them.  
-In the end you'll get an visual analysis of your data with some ready-to-go solutions, represented in this project.
+In the end you'll get a visual analysis of your data with some ready-to-go solutions, represented in this project.
 
 ## Install dependencies:
 1. Install Python 3.9.12
